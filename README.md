@@ -33,7 +33,7 @@
 
 <!-- - 🌱 I’m currently learning **** -->
 
-- ☁️ I've keen interest in distriuted systems and cloud computing.
+- ☁️ I've keen interest in distributed systems and cloud computing.
 
 <!-- - 📝 I regularly write articles on [Hashnode](https://guptaachin.hashnode.dev/) -->
 
@@ -86,9 +86,17 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gcp,docker,kubernetes,python,golang,neovim&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git&perline=14" style="opacity: 1; transition: opacity 0.3s ease-in-out;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" />
+    <img src="https://skillicons.dev/icons?i=gcp&perline=14" style="opacity: 1; transition: opacity 0.3s ease-in-out;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" />
+    <img src="https://skillicons.dev/icons?i=docker&perline=14" style="opacity: 1; transition: opacity 0.3s ease-in-out;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" />
+    <img src="https://skillicons.dev/icons?i=kubernetes&perline=14" style="opacity: 1; transition: opacity 0.3s ease-in-out;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" />
+    <img src="https://skillicons.dev/icons?i=py&perline=14" style="opacity: 1; transition: opacity 0.3s ease-in-out;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" />
+    <img src="https://skillicons.dev/icons?i=go&perline=14" style="opacity: 1; transition: opacity 0.3s ease-in-out;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" />
+    <img src="https://skillicons.dev/icons?i=neovim&perline=14" style="opacity: 1; transition: opacity 0.3s ease-in-out;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" />
   </a>
 </p>
+
+
 
 
 <!-- Connect with me -->
@@ -108,8 +116,6 @@
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" />
   </a>
 </p>
-
-
 
 <!--profile visit count-->
 <div align="center">
