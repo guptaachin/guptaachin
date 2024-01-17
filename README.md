@@ -95,6 +95,18 @@
     <img src="https://skillicons.dev/icons?i=neovim&perline=14" style="opacity: 1; transition: opacity 0.3s ease-in-out;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git&perline=14" title="Git - Version Control" />
+    <img src="https://skillicons.dev/icons?i=gcp&perline=14" title="Google Cloud Platform" />
+    <img src="https://skillicons.dev/icons?i=docker&perline=14" title="Docker - Containerization" />
+    <img src="https://skillicons.dev/icons?i=kubernetes&perline=14" title="Kubernetes - Container Orchestration" />
+    <img src="https://skillicons.dev/icons?i=py&perline=14" title="Python Programming" />
+    <img src="https://skillicons.dev/icons?i=go&perline=14" title="Go (Golang) Programming" />
+    <img src="https://skillicons.dev/icons?i=neovim&perline=14" title="Neovim - Text Editor" />
+  </a>
+</p>
+
 
 
 
