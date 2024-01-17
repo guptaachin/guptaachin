@@ -109,13 +109,17 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/guptaachin/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-  <a href="https://guptaachin.hashnode.dev/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git&perline=14" title="Git - Version Control" />
+    <img src="https://skillicons.dev/icons?i=gcp&perline=14" title="Google Cloud Platform" />
+    <img src="https://skillicons.dev/icons?i=docker&perline=14" title="Docker - Containerization" />
+    <img src="https://skillicons.dev/icons?i=kubernetes&perline=14" title="Kubernetes - Container Orchestration" />
+    <img src="https://skillicons.dev/icons?i=py&perline=14" title="Python Programming" />
+    <img src="https://skillicons.dev/icons?i=go&perline=14" title="Go (Golang) Programming" />
+    <img src="https://skillicons.dev/icons?i=neovim&perline=14" title="Neovim - Text Editor" />
   </a>
 </p>
+
 
 <!--profile visit count-->
 <div align="center">
