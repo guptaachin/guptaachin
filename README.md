@@ -29,6 +29,7 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Observability, Kubernetes, Helm, Python, Golang**
+
 - 🔄💡 I'm currently revising **Distributed concepts with Golang**
 
 <!-- - 🌱 I’m currently learning **** -->
@@ -37,7 +38,7 @@
 
 <!-- - 📝 I regularly write articles on [Hashnode](https://guptaachin.hashnode.dev/) -->
 
-- 💬 Ask me about **GCP, Kubernetes, Designing scalable systems, nodejs, mongoDB**
+- 💬 Ask me about **GCP, Kubernetes, Designing Scalable Systems, Life**
 
 - 📫 Feel free to reach me out **guptaachin@rocketmail.com**
 
